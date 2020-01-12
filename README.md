@@ -9,3 +9,5 @@ The theme has been tested on MacOS using the "SF Mono" font. If you would like t
 ```zsh
 export LSCOLORS=Exfxcxdxbxdxdxabagacad
 ```
+
+This setup works really well with the [Nord Terminal.app color theme](https://github.com/arcticicestudio/nord-terminal-app).
